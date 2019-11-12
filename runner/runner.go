@@ -1,4 +1,4 @@
-// Package runner is an example package from Go In Action: https://www.manning.com/books/go-in-action
+// Package runner is an example package from Go In Action: https://www.manning.com/books/go-in-action.
 package runner
 
 import (

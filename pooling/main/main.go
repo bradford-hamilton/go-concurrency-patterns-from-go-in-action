@@ -1,4 +1,7 @@
-// Package main is an example package from Go In Action: https://www.manning.com/books/go-in-action
+// Package main is an example package from Go In Action: https://www.manning.com/books/go-in-action.
+
+// This sample program demonstrates how to use the pool package
+// to share a simulated set of database connections
 package main
 
 import (

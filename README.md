@@ -1,0 +1,1 @@
+Examples of different concurrency patterns from [Go In Action](https://www.manning.com/books/go-in-action).

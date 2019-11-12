@@ -1,4 +1,4 @@
-// Package pooling is an example package from Go In Action: https://www.manning.com/books/go-in-action
+// Package pooling is an example package from Go In Action: https://www.manning.com/books/go-in-action.
 package pooling
 
 import (

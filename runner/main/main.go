@@ -1,4 +1,4 @@
-// Package main is an example package from Go In Action: https://www.manning.com/books/go-in-action
+// Package main is an example package from Go In Action: https://www.manning.com/books/go-in-action.
 
 // This sample program demonstrates how to use a channel to monitor the amount of
 // time the program is running and terminate the program if it runs too long.
